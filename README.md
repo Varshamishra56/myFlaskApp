@@ -13,8 +13,8 @@
 Set these variables in Cloud Shell:
 
 ```bash
-export GOOGLE_CLOUD_PROJECT='qwiklabs-gcp-03-e16f0e61a04e'
-export GOOGLE_CLOUD_REGION='us-central1'
+export GOOGLE_CLOUD_PROJECT='GOOGLE_CLOUD_PROJECT'
+export GOOGLE_CLOUD_REGION='GOOGLE_CLOUD_REGION'
 export SERVICE_NAME='gemini-flask-app'
 export AR_REPO='gemini-repo'
 ```
