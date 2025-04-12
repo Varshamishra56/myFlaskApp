@@ -5,7 +5,7 @@
 - Cloud Run compatible (listens on `0.0.0.0:8080`)
 - Deployed via Docker + Artifact Registry
 
-----
+---
 
 
 ## 🔧 Environment Setup (Cloud Shell)
